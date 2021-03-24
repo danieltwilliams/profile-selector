@@ -1,6 +1,6 @@
 # Code Challenge
 
-Provide a user interface to search for personal profiles
+Provide a user interface to search for personal profiles, [hosted on Netlify](https://heuristic-payne-e7c413.netlify.app/)
 
 ### Acceptance criteria
 * Users can type queries into the search box
